@@ -10,6 +10,12 @@ ReID-MOT is an MOT method that using Re-identification (ReID) feature to dominat
 
 ## We win the 1st place in BDD100K-MOT 
 <p float="center">
-  <img src="/assets/bdd100k_mot" width="60%" />
+  <img src="/assets/bdd100k_mot.gif" width="60%" />
 </p>
+
+# To do list
+
+- [ ] Upload Models
+- [ ] Upload Training and Testing Codes
+- [ ] Upload Visulization Codes
 
